@@ -34,48 +34,7 @@ This software is intended for educational purposes and ethical security research
 
 ---
 
-### 🛠️ Setup & Installation
 
-To run this project, you'll need Python 3 and the following dependencies.
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your_username/lambda-joiner.git](https://github.com/your_username/lambda-joiner.git)
-    cd lambda-joiner
-    ```
-
-2.  **Install the required libraries:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-    Your `requirements.txt` file should contain:
-    ```
-    PyQt5
-    colorama
-    playsound
-    ```
-
-3.  **Required Tools:**
-    The application relies on a few external tools that **must be placed in a `bin` subfolder** within the project directory:
-    * `g++.exe` (from a MinGW distribution) for compiling the C++ stub.
-    * `upx.exe` (optional, for packing).
-    * `rcedit-x64.exe` (for setting the icon).
-
-    Your project structure should look like this:
-    ```
-    lambda-joiner/
-    ├── bin/
-    │   ├── g++.exe
-    │   ├── rcedit-x64.exe
-    │   └── upx.exe
-    ├── sounds/
-    │   ├── tada.mp3
-    │   └── fail.mp3
-    ├── main.py
-    └── ...
-    ```
-
----
 
 ### 🚀 How to Use
 
