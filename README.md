@@ -106,7 +106,3 @@ This project is distributed under the MIT License. See the `LICENSE` file for mo
 
 ---
 
-### 🙏 Acknowledgments
-
-* Thanks to the developers of PyQt5 for the amazing GUI framework.
-* Shout-out to Google's Gemini for assistance in debugging and refactoring the build process.
