@@ -61,7 +61,7 @@ Contributions are welcome! If you have ideas for new features or find bugs, feel
 
 ### 📄 License
 
-This project is distributed under the MIT License. See the `LICENSE` file for more information.
+This project is distributed under the MPL 2.0 License. See the `LICENSE` file for more information.
 
 ---
 
