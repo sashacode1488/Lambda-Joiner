@@ -8,12 +8,12 @@
 [![GUI](https://img.shields.io/badge/GUI-PyQt5-orange.svg)](https://riverbankcomputing.com/software/pyqt/)
 [![Usage](https://img.shields.io/badge/Usage-Educational_Only-red.svg)](README.md#%EF%B8%8F-disclaimer-for-educational-use-only-%EF%B8%8F)
 
-[![Build Status](https://github.com/YourUsername/Lambda-Joiner/actions/workflows/build.yml/badge.svg)](https://github.com/YourUsername/Lambda-Joiner/actions)
+[![Build Status](https://github.com/sashacode1488/Lambda-Joiner/actions/workflows/build.yml/badge.svg)](https://github.com/sashacode1488/Lambda-Joiner/actions)
 <br>
-[![GitHub Stars](https://img.shields.io/github/stars/YourUsername/Lambda-Joiner?style=social)](https://github.com/YourUsername/Lambda-Joiner/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/YourUsername/Lambda-Joiner?style=social)](https://github.com/YourUsername/Lambda-Joiner/network/members)
-[![Last Commit](https://img.shields.io/github/last-commit/YourUsername/Lambda-Joiner)](https://github.com/YourUsername/Lambda-Joiner/commits/main)
-[![Open Issues](https://img.shields.io/github/issues/YourUsername/Lambda-Joiner)](https://github.com/YourUsername/Lambda-Joiner/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/sashacode1488/Lambda-Joiner?style=social)](https://github.com/sashacode1488/Lambda-Joiner/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/sashacode1488/Lambda-Joiner?style=social)](https://github.com/sashacode1488/Lambda-Joiner/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/sashacode1488/Lambda-Joiner)](https://github.com/sashacode1488/Lambda-Joiner/commits/main)
+[![Open Issues](https://img.shields.io/github/issues/sashacode1488/Lambda-Joiner)](https://github.com/sashacode1488/Lambda-Joiner/issues)
 
 </div>
 <!-- ===== END OF BADGE BLOCK ===== -->
@@ -86,10 +86,9 @@ Make sure you have Python 3 installed on your system. You will also need `pip` t
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Lambda-Joiner.git](https://github.com/YourUsername/Lambda-Joiner.git)
+    git clone [https://github.com/sashacode1488/Lambda-Joiner.git](https://github.com/sashacode1488/Lambda-Joiner.git)
     cd Lambda-Joiner
     ```
-    **IMPORTANT:** Remember to replace `YourUsername/Lambda-Joiner` with the actual URL of your repository!
 
 2.  **Install the required packages:**
     ```bash
