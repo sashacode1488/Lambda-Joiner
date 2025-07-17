@@ -1,6 +1,6 @@
 # Lambda Joiner λ
 
-![Lambda Joiner Demo](https://i.imgur.com/your_demo_link.gif) 
+![Lambda Joiner Demo](screenshot.png) 
 <!-- It's highly recommended to record a short GIF of the app and replace the link above -->
 
 A powerful and feature-rich file joiner built with Python and PyQt5. This tool is designed for educational purposes and security research, allowing you to combine multiple executable files into a single, seamless payload.
